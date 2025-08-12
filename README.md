@@ -7,6 +7,7 @@ Este repositório contém todos os exercícios e trabalhos desenvolvidos na disc
 O conteúdo está dividido em **três módulos**, que correspondem aos **três semestres** da disciplina.  
 Dentro de cada módulo, estão organizados os trabalhos e atividades práticas passadas pela professora.
 
+```
 modulo1-web1/
 ├── atividades/
 │ ├── atividade-pratica-1/
@@ -36,7 +37,7 @@ modulo3-web3/
 ├── trabalho-1/
 ├── trabalho-2/
 └── ...
-
+```
 
 ---
 
