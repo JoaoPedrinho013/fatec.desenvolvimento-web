@@ -9,6 +9,10 @@ Dentro de cada módulo, estão organizados os trabalhos e atividades práticas p
 
 ```
 modulo1-web1/
+├── aulas/
+│ ├── aula-1/
+│ ├── aula-2/
+│ └── ...
 ├── atividades/
 │ ├── atividade-pratica-1/
 │ ├── atividade-pratica-2/
@@ -19,6 +23,10 @@ modulo1-web1/
 └── ...
 
 modulo2-web2/
+├── aulas/
+│ ├── aula-1/
+│ ├── aula-2/
+│ └── ...
 ├── atividades/
 │ ├── atividade-pratica-1/
 │ ├── atividade-pratica-2/
@@ -29,6 +37,10 @@ modulo2-web2/
 └── ...
 
 modulo3-web3/
+├── aulas/
+│ ├── aula-1/
+│ ├── aula-2/
+│ └── ...
 ├── atividades/
 │ ├── atividade-pratica-1/
 │ ├── atividade-pratica-2/
